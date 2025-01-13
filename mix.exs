@@ -1,6 +1,6 @@
 defmodule Maru.Mixfile do
   use Mix.Project
-
+org.elixir_lang.jps.builder.Service
   def project do
     [
       app: :maru,
