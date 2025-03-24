@@ -43,3 +43,4 @@ defmodule Maru.Mixfile do
     }
   end
 end
+      version: "0.14.0-pre.1",
